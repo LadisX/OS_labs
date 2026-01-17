@@ -1,0 +1,8 @@
+﻿  Windows.h.cpp
+C:\Files\Code\OS\Matrix\Windows.h\Windows.h\Windows.h.cpp(96,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  3 of 222 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Windows.h.vcxproj -> C:\Files\Code\OS\Matrix\Windows.h\x64\Release\Windows.h.exe
