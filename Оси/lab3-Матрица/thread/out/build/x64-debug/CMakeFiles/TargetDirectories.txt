@@ -1,0 +1,5 @@
+C:/Files/Code/OS/Matrix/thread/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Files/Code/OS/Matrix/thread/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Files/Code/OS/Matrix/thread/out/build/x64-debug/thread/CMakeFiles/thread.dir
+C:/Files/Code/OS/Matrix/thread/out/build/x64-debug/thread/CMakeFiles/edit_cache.dir
+C:/Files/Code/OS/Matrix/thread/out/build/x64-debug/thread/CMakeFiles/rebuild_cache.dir
